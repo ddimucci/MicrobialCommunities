@@ -1,7 +1,7 @@
 # 18 Aug 17
 # Demetrius DiMucci
 
-# Figure 2A and 2B
+# Figures 2B and 4B, 2C and 4C
 # Distribution of growth responses for E.coli and for FBA
 
 # E.coli responses
@@ -39,7 +39,7 @@ for(i in 1:14){
   count <- count + 1
 }
 
-
+# Fig 4C
 pdf(file='EcoliHist.pdf')
 par(mar=c(5,5,5,5))
 hist(negEcoli/13,col='grey',breaks=10,xlab='Weak Fraction',
@@ -64,7 +64,7 @@ dev.off()
 
 
 
-#
+# This was not used in the text.
 Jaccard_dist <- read.csv("JaccardPredictions.csv")[,2]
 
 plot(Jaccard_dist,Interactions[,3])
@@ -98,19 +98,7 @@ for(i in 1:100){
   accuracy[i] <- length(which(exRf$y[start:end] == exRf$predicted[start:end]))
 }
 
-
-pdf(file='FBAHist.pdf')
-par(mar=c(5,5,5,5))
-hist(negIxns/99,col='grey',breaks=10,xlab='Negative Fraction',
-     ylab='Models',main='',cex.axis=2,cex.lab=2.5)
-dev.off()
-
-pdf(file='FBADist_points.pdf')
-par(mar=c(5,5,5,5))
-plot(sort(negIxns/99),ylab='Negative Fraction',cex.axis=2,
-     cex.lab=2.5,cex=1,pch=16)
-dev.off()
-
+# Fig 2C in the text
 pdf(file='FBADist_hist.pdf')
 par(mar=c(5,5,5,5))
 hist(negIxns/99,ylab='# Organisms',cex.axis=2,main='',
