@@ -12,3 +12,7 @@ This will generate a layout file using compounds.m and ratios.m
 compounds.m specifies which metabolites to use in the environment
 ratios.m dictates the initial concentrations in COMETS.
 
+layout.txt is an example of what the layout should look like.
+
+The newest version of cometstoolbox may not use the same parameters. To replicate the results analyzed in the main text
+ensure that the parameters are identical to the ones found in layout.txt
