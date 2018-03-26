@@ -1,0 +1,263 @@
+model_file Seed321956_5_30032_xml.txt Seed390333_10_124632_xml.txt
+	model_world
+		grid_size 1 1
+		world_media
+		cpd00001_e0 10
+		cpd00007_e0 10
+		cpd00009_e0 10
+		cpd00011_e0 0
+		cpd00013_e0 10
+		cpd00024_e0 0
+		cpd00030_e0 10
+		cpd00033_e0 1e-08
+		cpd00034_e0 10
+		cpd00048_e0 10
+		cpd00051_e0 1e-08
+		cpd00053_e0 1e-08
+		cpd00054_e0 1e-08
+		cpd00058_e0 10
+		cpd00060_e0 1e-08
+		cpd00063_e0 10
+		cpd00065_e0 1e-08
+		cpd00067_e0 10
+		cpd00073_e0 1e-08
+		cpd00082_e0 1e-08
+		cpd00092_e0 1e-08
+		cpd00099_e0 10
+		cpd00100_e0 0
+		cpd00104_e0 0
+		cpd00107_e0 1e-08
+		cpd00117_e0 1e-08
+		cpd00118_e0 1e-08
+		cpd00129_e0 1e-08
+		cpd00130_e0 1e-08
+		cpd00138_e0 0
+		cpd00149_e0 1e-08
+		cpd00156_e0 1e-08
+		cpd00158_e0 0
+		cpd00179_e0 1e-08
+		cpd00205_e0 10
+		cpd00218_e0 1e-08
+		cpd00220_e0 1e-08
+		cpd00226_e0 1e-08
+		cpd00254_e0 10
+		cpd00264_e0 1e-08
+		cpd00305_e0 1e-08
+		cpd00309_e0 1e-08
+		cpd00322_e0 1e-08
+		cpd00516_e0 1e-08
+		cpd00531_e0 10
+		cpd00540_e0 0
+		cpd00550_e0 1e-08
+		cpd00588_e0 0
+		cpd00637_e0 1e-08
+		cpd00644_e0 1e-08
+		cpd01012_e0 10
+		cpd01017_e0 1e-08
+		cpd01262_e0 0
+		cpd01329_e0 0
+		cpd01914_e0 1e-08
+		cpd04097_e0 10
+		cpd08636_c0 0
+		cpd10515_e0 10
+		cpd10516_e0 10
+		cpd11416_c0 0
+		cpd11576_e0 0
+		cpd11580_e0 0
+		cpd11581_e0 1e-08
+		cpd11582_e0 1e-08
+		cpd11583_e0 1e-08
+		cpd11584_e0 1e-08
+		cpd11585_e0 1e-08
+		cpd11586_e0 1e-08
+		cpd11587_e0 0
+		cpd11588_e0 1e-08
+		cpd11589_e0 1e-08
+		cpd11590_e0 1e-08
+		cpd11591_e0 1e-08
+		cpd11592_e0 0
+		cpd11593_e0 1e-08
+		cpd15603_e0 0
+		cpd15604_e0 1e-08
+		cpd15605_e0 1e-08
+		cpd15606_e0 1e-08
+		cpd17041_c0 0
+		cpd17042_c0 0
+		cpd17043_c0 0
+		cpd00027_e0 1e-08
+		cpd00028_e0 1e-08
+		cpd00039_e0 1e-08
+		cpd00064_e0 1e-08
+		cpd00076_e0 0
+		cpd00105_e0 1e-08
+		cpd00122_e0 1e-08
+		cpd00133_e0 1e-08
+		cpd00136_e0 1e-08
+		cpd00276_e0 1e-08
+		cpd00314_e0 0
+		cpd00393_e0 1e-08
+		cpd00794_e0 1e-08
+		cpd00971_e0 10
+		cpd01030_e0 0
+		cpd01171_e0 0
+		cpd01242_e0 0
+		cpd03696_e0 0
+		cpd11606_e0 1e-08
+	//
+	diffusion_constants 1.000000e-06
+		1 0
+		2 0
+		3 0
+		4 0
+		5 0
+		6 0
+		7 0
+		8 0
+		9 0
+		10 0
+		11 0
+		12 0
+		13 0
+		14 0
+		15 0
+		16 0
+		17 0
+		18 0
+		19 0
+		20 0
+		21 0
+		22 0
+		23 0
+		24 0
+		25 0
+		26 0
+		27 0
+		28 0
+		29 0
+		30 0
+		31 0
+		32 0
+		33 0
+		34 0
+		35 0
+		36 0
+		37 0
+		38 0
+		39 0
+		40 0
+		41 0
+		42 0
+		43 0
+		44 0
+		45 0
+		46 0
+		47 0
+		48 0
+		49 0
+		50 0
+		51 0
+		52 0
+		53 0
+		54 0
+		55 0
+		56 0
+		57 0
+		58 0
+		59 0
+		60 0
+		61 0
+		62 0
+		63 0
+		64 0
+		65 0
+		66 0
+		67 0
+		68 0
+		69 0
+		70 0
+		71 0
+		72 0
+		73 0
+		74 0
+		75 0
+		76 0
+		77 0
+		78 0
+		79 0
+		80 0
+		81 0
+		82 0
+		83 0
+		84 0
+		85 0
+		86 0
+		87 0
+		88 0
+		89 0
+		90 0
+		91 0
+		92 0
+		93 0
+		94 0
+		95 0
+		96 0
+		97 0
+		98 0
+		99 0
+		100 0
+		101 0
+	//
+	media
+	//
+	media_refresh 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	//
+	static_media 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	//
+	barrier
+	//
+//
+initial_pop
+	0 0 1.000000e-09 1.000000e-09
+//
+	parameters
+	maxCycles = 500
+	pixelScale = 5
+	saveslideshow = false
+	slideshowExt = png
+	slideshowColorRelative = true
+	slideshowRate = 1
+	slideshowLayer = 324
+	writeFluxLog = true
+	FluxLogName = flux.m
+	FluxLogRate = 1
+	writeMediaLog = false
+	MediaLogName = ./media.txt
+	MediaLogRate = 1
+	writeBiomassLog = false
+	BiomassLogName = ./biomass.txt
+	BiomassLogRate = 1
+	writeTotalBiomassLog = true
+	totalBiomassLogRate = 1
+	TotalbiomassLogName = ./total_biomass
+	useLogNameTimeStamp = false
+	slideshowName = ./res.png
+	numDiffPerStep = 10
+	numRunThreads = 1
+	growthDiffRate = 0
+	flowDiffRate = 3e-09
+	exchangestyle = Monod Style
+	defaultKm = 0.01
+	defaultHill = 1
+	timeStep = 0.1
+	deathRate = 0
+	spaceWidth = 0.01
+	maxSpaceBiomass = 1
+	minSpaceBiomass = 0
+	allowCellOverlap = true
+	toroidalWorld = false
+	showCycleTime = true
+	showCycleCount = true
+	defaultVmax = 10
+	biomassMotionStyle = Diffusion (Crank-Nicolson)
+	exchangeStyle = Standard FBA
+//
