@@ -1,7 +1,8 @@
 % This version of makeLayouts specifies the recipe for bifidobacterium media
 
-addpath(genpath('/project/cometsfba/dimucci/comets-toolbox')) %% for use on scc1
-addpath(genpath('/project/cometsfba/dimucci/cobratoolbox'))
+% make sure these toolboxes are available and are added to your path
+addpath(genpath('/comets-toolbox')) %% for use on scc1
+addpath(genpath('/cobratoolbox'))
 
 cycles = 1000;
 media = 0;
