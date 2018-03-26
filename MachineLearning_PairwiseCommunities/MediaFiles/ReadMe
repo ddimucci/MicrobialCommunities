@@ -1,0 +1,14 @@
+This set of files is what was used to set up and eventually run all 5050 simulations in COMETS once a directory for each 
+desired scenario was created.
+
+Order of execution
+
+cd to the target directory.
+
+run makeLayouts.m (either from command line or from within an R environment with makeLayouts.r)
+
+This will generate a layout file using compounds.m and ratios.m
+
+compounds.m specifies which metabolites to use in the environment
+ratios.m dictates the initial concentrations in COMETS.
+
