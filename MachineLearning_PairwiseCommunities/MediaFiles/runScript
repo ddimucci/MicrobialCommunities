@@ -1,0 +1,3 @@
+#!/bin/bash -l 
+module load gurobi_optimizer/6.0.0
+./comets_scr comets_script
