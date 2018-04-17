@@ -6,6 +6,9 @@ Order of execution:
 1. Run initialize.py - this will create a new directory for each pairwise interaction and monoculture experiment.
 It will copy the required files into each directory. This can be easily modified to create n > 2 communities if you wish.
 
+package_params and global_params are empty files but the script expects to see them. Also, these could be used to specify
+parameters instead of putting them directly into the layout files as I have done.
+
 write a loop to do this
 2. cd to the target directory.
 
