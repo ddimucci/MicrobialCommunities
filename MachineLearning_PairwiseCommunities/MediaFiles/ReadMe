@@ -1,11 +1,15 @@
 This set of files is what was used to set up and eventually run all 5050 simulations in COMETS once a directory for each 
 desired scenario was created.
 
-Order of execution
+Order of execution:
 
-cd to the target directory.
+1. Run initialize.py - this will create a new directory for each pairwise interaction and monoculture experiment.
+It will copy the required files into each directory. This can be easily modified to create n > 2 communities if you wish.
 
-run makeLayouts.m (either from command line or from within an R environment with makeLayouts.r)
+write a loop to do this
+2. cd to the target directory.
+
+3. run makeLayouts.m (either from command line or from within an R environment with makeLayouts.r)
 
 This will generate a layout file using compounds.m and ratios.m
 
